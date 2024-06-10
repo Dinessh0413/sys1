@@ -1,0 +1,6 @@
+print("Hello Dinessh welcome to ocean academy")
+print('I am Dinessh')
+print("My Mothers Name is Radha")
+print('My Fathers Name is Venkat')
+print("I am here to learn Python")
+print("My sisters Name is Moshia")
